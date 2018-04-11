@@ -1,0 +1,13 @@
+
+RewriteEngine on
+
+RewriteRule ^read read.php
+
+RewriteRule ^journey journey.php
+
+RewriteRule ^ministry ministry.php
+
+RewriteRule ^preachings preaching.php
+
+RewriteRule ^contact contact.php
+
