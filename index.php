@@ -33,4 +33,7 @@ include('apps/variables.php');
         <script src="<?php echo $url; ?>assets/js/scripts.js"></script>
     </body>
 </html>
+<script>
+    console.log('Welcome to Light Church!');
+</script>
 				
